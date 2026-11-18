@@ -1,19 +1,19 @@
 
 const projects = [
     {
-        name: "Decision Support System for The Best Goat Selection",
-        desc: "Tech Stack: PHP, HTML, CSS, JavaScript, MySQL, Bootstrap. <br> A decision support system to determine the best livestock using the SMART (Simple Multi Attribute Rating Technique) method.",
-        img: "img/goat.png" 
+        name: "Working as banckend developer intern at PT Admin Pintar Kita",
+        desc: "Using Nodejs framework to maintaining and develop CRUD operation and using MongoDB as database.",
+        img: "img/goat.jpeg" 
     },
     {
-        name: "Decision Support System for The Best Cadre Selection",
-        desc: "Tech Stack: PHP, HTML, CSS, JavaScript, MySQL, Bootstrap. <br> A decision support system to determine the best cadre using the SAW (Simple Additive Weighting) method.",
-        img: "img/cadre.png" 
+        name: "Working as backend developer intern at PT Goshen Technology Indonesia (child of PT Rajawali Sinergi Group)",
+        desc: "Working for 3 months as software developer using Golang, ReactJS and PostgreSQl ",
+        img: "img/logo.png" 
     },
     {
-        name: "Decision Support System for The Class Leader Selection",
-        desc: "Tech Stack: PHP, HTML, CSS, JavaScript, MySQL, Bootstrap. <br> A decision support system to determine the best class leader using the Multi Attribute Utility Theory method.",
-        img: "img/class_leader.png" 
+        name: "Freelance/Side hustle",
+        desc: "Making small amount of money on tiktok through streaming",
+        img: "img/tiktok.png" 
     }
 ];
 
